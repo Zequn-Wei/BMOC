@@ -1,2 +1,3 @@
 # BMOC
-The 140 benchmark instances of BMOC and the certificates of our best solutions are available here.
+The BMOC solution certificates corresponding to our best solutions are available here.
+The 140 benchmark instances and our algorithm will also be publicly available here.
